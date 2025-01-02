@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestDemo",
+            "request": "launch",
+            "mainClass": "TestDemo",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "TestNewInstance",
+            "request": "launch",
+            "mainClass": "DemoNewInstance.TestNewInstance",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "First_Var_Args",
+            "request": "launch",
+            "mainClass": "Demo_Var_ARGS.First_Var_Args",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchEncap",
+            "request": "launch",
+            "mainClass": "Encapsulation.LaunchEncap",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "launceEncapgettersetter",
+            "request": "launch",
+            "mainClass": "Encapsulation.launceEncapgettersetter",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchConst",
+            "request": "launch",
+            "mainClass": "Inheritance.LaunchConst",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchInheritance",
+            "request": "launch",
+            "mainClass": "Inheritance.LaunchInheritance",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Anonymos_Inner_Class",
+            "request": "launch",
+            "mainClass": "InnerClass.Anonymos_Inner_Class",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "First_Inner_Class",
+            "request": "launch",
+            "mainClass": "InnerClass.First_Inner_Class",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Second_Anonymos_Inner_Class",
+            "request": "launch",
+            "mainClass": "InnerClass.Second_Anonymos_Inner_Class",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "FirstInterface",
+            "request": "launch",
+            "mainClass": "Interface.FirstInterface",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "SecondInterface",
+            "request": "launch",
+            "mainClass": "Interface.SecondInterface",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "ThirdInterface",
+            "request": "launch",
+            "mainClass": "Interface.ThirdInterface",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Publish_Employee_Data",
+            "request": "launch",
+            "mainClass": "Main_Package.Publish_Employee_Data",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Publish_Many_One",
+            "request": "launch",
+            "mainClass": "Main_Package.Publish_Many_One",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Publish_Many_to_Many",
+            "request": "launch",
+            "mainClass": "Main_Package.Publish_Many_to_Many",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Publish_One_Many_Emps",
+            "request": "launch",
+            "mainClass": "Main_Package.Publish_One_Many_Emps",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "FirstNewInstance",
+            "request": "launch",
+            "mainClass": "NewInstance.FirstNewInstance",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Poly_runtime_method_Overriding",
+            "request": "launch",
+            "mainClass": "Polymorphism.Poly_runtime_method_Overriding",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch_Loan",
+            "request": "launch",
+            "mainClass": "Program_Abstract.Launch_Loan",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Project_Abstract",
+            "request": "launch",
+            "mainClass": "Program_Abstract.Project_Abstract",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchStatic",
+            "request": "launch",
+            "mainClass": "Static_Package.LaunchStatic",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "FirstWrapper",
+            "request": "launch",
+            "mainClass": "Wrapper.FirstWrapper",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "AssignTwo",
+            "request": "launch",
+            "mainClass": "in.neuron.main.AssignTwo",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentOne",
+            "request": "launch",
+            "mainClass": "in.neuron.main.AssignmentOne",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentThree",
+            "request": "launch",
+            "mainClass": "in.neuron.main.AssignmentThree",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "BPattern",
+            "request": "launch",
+            "mainClass": "in.neuron.main.BPattern",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "in.neuron.main.BinarySearch",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "CopyString",
+            "request": "launch",
+            "mainClass": "in.neuron.main.CopyString",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "FirstArray",
+            "request": "launch",
+            "mainClass": "in.neuron.main.FirstArray",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "FirstOops",
+            "request": "launch",
+            "mainClass": "in.neuron.main.FirstOops",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "FirstProject",
+            "request": "launch",
+            "mainClass": "in.neuron.main.FirstProject",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "GPattern",
+            "request": "launch",
+            "mainClass": "in.neuron.main.GPattern",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "HomePattern",
+            "request": "launch",
+            "mainClass": "in.neuron.main.HomePattern",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchAnagram",
+            "request": "launch",
+            "mainClass": "in.neuron.main.LaunchAnagram",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchArray",
+            "request": "launch",
+            "mainClass": "in.neuron.main.LaunchArray",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchBS",
+            "request": "launch",
+            "mainClass": "in.neuron.main.LaunchBS",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchPalindrome",
+            "request": "launch",
+            "mainClass": "in.neuron.main.LaunchPalindrome",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchPangram",
+            "request": "launch",
+            "mainClass": "in.neuron.main.LaunchPangram",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "in.neuron.main.LinearSearch",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "MaxMinArray",
+            "request": "launch",
+            "mainClass": "in.neuron.main.MaxMinArray",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "PPattern",
+            "request": "launch",
+            "mainClass": "in.neuron.main.PPattern",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "PracticeArray",
+            "request": "launch",
+            "mainClass": "in.neuron.main.PracticeArray",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "in.neuron.main.ReverseString",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "in.neuron.main.Student",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "SumofArray",
+            "request": "launch",
+            "mainClass": "in.neuron.main.SumofArray",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "UpperLowerString",
+            "request": "launch",
+            "mainClass": "in.neuron.main.UpperLowerString",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "XPattern",
+            "request": "launch",
+            "mainClass": "in.neuron.main.XPattern",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "forloop1",
+            "request": "launch",
+            "mainClass": "in.neuron.main.forloop1",
+            "projectName": "JavaPatterns"
+        },
+        {
+            "type": "java",
+            "name": "LaunchStatic(1)",
+            "request": "launch",
+            "mainClass": "static_method.LaunchStatic",
+            "projectName": "JavaPatterns"
+        }
+    ]
+}
