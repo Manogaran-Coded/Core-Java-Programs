@@ -10,6 +10,7 @@ public class LaunchTreeSet {
         ts.add(02);
         ts.add(25);
         System.out.println(ts);
+        Hash
     }
     
 }
